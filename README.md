@@ -50,8 +50,4 @@ As someone learning cybersecurity from scratch, I wanted to understand how secur
 
 ---
 
-## ✅ Next Steps
-
-- Try the same detection in Windows Event Logs
-- Automate this process with Python or Bash in a future script
-- Document a similar lab using SIEM tools like Splunk or Wazuh
+b using SIEM tools like Splunk or Wazuh
